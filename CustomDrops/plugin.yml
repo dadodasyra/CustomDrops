@@ -1,0 +1,6 @@
+name: CustomDrops
+main: dadodasyra\CustomDrops\Drops
+version: 1.0.0
+api: 3.0.0
+author: dadodasyra
+description: Plugin permettant de drop n'importe quel item sur n'importe quel block

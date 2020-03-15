@@ -1,0 +1,22 @@
+#CustomDrops by dadodasyra
+
+creative: false #si les items drops quand même en Créatif
+
+###
+
+#ID MCPE = https://www.digminecraft.com/lists/item_id_list_pe.php
+#Attention toute les ids ne sont pas compatible avec PocketMine, je vous invite a faire /give votrepseudo ID pour tester si c'est bien l'item que vous attendez
+drops:
+  57;0: [["264:0", 9]] #ici 1 block de diamant donne 9 diamants
+  7;0: [["264:0", 1], ["388:0", 1]] #ici une bedrock donnera 1 diamant et 1 emeraude (c'est impossible de casser de la bedrock au cazou^^)
+
+#1 item :
+#BLOCKID;BLOCKDAMAGE: [["ID:META/DAMAGE", NOMBRE]]
+#2 items :
+#BLOCKID;BLOCKDAMAGE: [["ID:META/DAMAGE", NOMBRE], ["ID:META/DAMAGE", NOMBRE]]
+#3 items :
+#BLOCKID;BLOCKDAMAGE: [["ID:META/DAMAGE", NOMBRE], ["ID:META/DAMAGE", NOMBRE], ["ID:META/DAMAGE", NOMBRE]]
+#etc, etc, etc
+
+
+#Si vous avez besoin d'aide demandez ici : https://discord.gg/SpsUsrK
